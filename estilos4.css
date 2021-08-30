@@ -1,9 +1,26 @@
 body{
 width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 .conteiner{
     height: 70%;
     width: 70%;
-    fl
+    
 }
+    .caixa1{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+
+
+
+    
