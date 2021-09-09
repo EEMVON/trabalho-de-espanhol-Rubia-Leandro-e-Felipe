@@ -35,11 +35,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
-<<<<<<< HEAD
-margin: 50px;
-=======
 margin: 30px;
->>>>>>> 832f2f34d8fe0070e6a32fabe765cb576533a970
 
 }
 .conteiner{
